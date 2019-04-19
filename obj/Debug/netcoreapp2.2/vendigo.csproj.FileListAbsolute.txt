@@ -1,0 +1,11 @@
+C:\Users\naienko\workspace\csharp\vendigo\bin\Debug\netcoreapp2.2\vendigo.deps.json
+C:\Users\naienko\workspace\csharp\vendigo\bin\Debug\netcoreapp2.2\vendigo.runtimeconfig.json
+C:\Users\naienko\workspace\csharp\vendigo\bin\Debug\netcoreapp2.2\vendigo.runtimeconfig.dev.json
+C:\Users\naienko\workspace\csharp\vendigo\bin\Debug\netcoreapp2.2\vendigo.dll
+C:\Users\naienko\workspace\csharp\vendigo\bin\Debug\netcoreapp2.2\vendigo.pdb
+C:\Users\naienko\workspace\csharp\vendigo\obj\Debug\netcoreapp2.2\vendigo.csprojAssemblyReference.cache
+C:\Users\naienko\workspace\csharp\vendigo\obj\Debug\netcoreapp2.2\vendigo.csproj.CoreCompileInputs.cache
+C:\Users\naienko\workspace\csharp\vendigo\obj\Debug\netcoreapp2.2\vendigo.AssemblyInfoInputs.cache
+C:\Users\naienko\workspace\csharp\vendigo\obj\Debug\netcoreapp2.2\vendigo.AssemblyInfo.cs
+C:\Users\naienko\workspace\csharp\vendigo\obj\Debug\netcoreapp2.2\vendigo.dll
+C:\Users\naienko\workspace\csharp\vendigo\obj\Debug\netcoreapp2.2\vendigo.pdb
